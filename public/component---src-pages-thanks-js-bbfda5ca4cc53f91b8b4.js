@@ -1,0 +1,2 @@
+webpackJsonp([0xe6ac1b921d9d],{243:function(e,t,a){(function(n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var o=a(3);u(o);t.default=function(){return n.createElement("div",{className:"thankyou-page"},n.createElement("h1",{className:"title"},"Thank you!"),n.createElement("p",null,"This is a custom thank you page for submissions from the contact form"))},e.exports=t.default}).call(t,a(9))}});
+//# sourceMappingURL=component---src-pages-thanks-js-bbfda5ca4cc53f91b8b4.js.map

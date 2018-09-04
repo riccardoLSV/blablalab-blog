@@ -1,0 +1,2 @@
+webpackJsonp([0x7f3bd97aa854],{567:function(a,t){a.exports={data:{markdownRemark:{html:'<p>Pandas!! Check out this short video that shows pandas!</p>\n<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe></div>',frontmatter:{title:"Pandas"}}},pathContext:{slug:"/pandas/"}}}});
+//# sourceMappingURL=path---pandas-70fdfec505b802b95055.js.map
